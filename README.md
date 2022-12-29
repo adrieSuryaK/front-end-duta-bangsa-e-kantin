@@ -2,7 +2,7 @@
 ![02](https://user-images.githubusercontent.com/85105885/209924464-fa64a425-af8e-47a6-bada-a4eeb8f7ee5c.png)
 ![05](https://user-images.githubusercontent.com/85105885/209924468-71f55257-7816-4180-886d-521e2ed349a8.png)
 ![07](https://user-images.githubusercontent.com/85105885/209924470-c0a11617-45d1-454e-b2c5-d2ec0e2bb82d.png)
-# kantinudb
+# duta bangsa e-kantin
 
 A new Flutter project.
 
